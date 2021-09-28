@@ -15,7 +15,9 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@loadable/component": "^5.15.0",
     "gatsby": "^3.13.1",
+    "gatsby-plugin-loadable-components-ssr": "^3.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
